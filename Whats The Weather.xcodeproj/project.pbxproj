@@ -14,6 +14,7 @@
 		35F6F9731BF0F3A400138C12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35F6F9711BF0F3A400138C12 /* LaunchScreen.storyboard */; };
 		35F6F97E1BF0F3A400138C12 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F6F97D1BF0F3A400138C12 /* Whats_The_WeatherTests.swift */; };
 		35F6F9891BF0F3A400138C12 /* Whats_The_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F6F9881BF0F3A400138C12 /* Whats_The_WeatherUITests.swift */; };
+		35F6F9971BF0F3EA00138C12 /* l0WSZOz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35F6F9961BF0F3EA00138C12 /* l0WSZOz.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		35F6F9841BF0F3A400138C12 /* Whats The WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35F6F9881BF0F3A400138C12 /* Whats_The_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherUITests.swift; sourceTree = "<group>"; };
 		35F6F98A1BF0F3A400138C12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35F6F9961BF0F3EA00138C12 /* l0WSZOz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = l0WSZOz.jpg; path = ../../../Desktop/l0WSZOz.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				35F6F9681BF0F3A400138C12 /* AppDelegate.swift */,
 				35F6F96A1BF0F3A400138C12 /* ViewController.swift */,
 				35F6F96C1BF0F3A400138C12 /* Main.storyboard */,
+				35F6F9961BF0F3EA00138C12 /* l0WSZOz.jpg */,
 				35F6F96F1BF0F3A400138C12 /* Assets.xcassets */,
 				35F6F9711BF0F3A400138C12 /* LaunchScreen.storyboard */,
 				35F6F9741BF0F3A400138C12 /* Info.plist */,
@@ -235,6 +238,7 @@
 				35F6F9731BF0F3A400138C12 /* LaunchScreen.storyboard in Resources */,
 				35F6F9701BF0F3A400138C12 /* Assets.xcassets in Resources */,
 				35F6F96E1BF0F3A400138C12 /* Main.storyboard in Resources */,
+				35F6F9971BF0F3EA00138C12 /* l0WSZOz.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
